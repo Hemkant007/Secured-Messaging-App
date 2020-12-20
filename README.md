@@ -1,2 +1,2 @@
 # Secured-Messaging-App
-It is an highly secured app
+It is a highly secured app
